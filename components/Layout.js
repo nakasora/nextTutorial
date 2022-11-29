@@ -44,7 +44,7 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
+          <cite>creteted by Nakamura</cite>
           {/* <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} /> */}
         </a>
       </footer>
